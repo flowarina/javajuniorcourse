@@ -1,0 +1,7 @@
+Вывести текст в консоли, имена членов семьи
+public class Family {
+    public static void main(String[] args) {
+        System.out.println("Маргарита");
+        System.out.println("Вовочка");
+    }
+}
